@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CHS-10 Verify History</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fbaa308b-a509-4585-8625-a44e70e5cc8f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3b9f9b85-c825-450e-8ed3-8ec4ddcf5315</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>[('facility') : 'Tokyo CURA Healthcare Center', ('comment') : 'at 10.00 AM', ('visit_date') : '01/05/2024']</defaultValue>
+      <description></description>
+      <id>3b9f9b85-c825-450e-8ed3-8ec4ddcf5315</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+</TestCaseEntity>

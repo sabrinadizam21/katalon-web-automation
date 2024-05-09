@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CHS-8 Not input Visit Date</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0cbd786d-ca75-4238-a3a4-64abe538cb3b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a833b02b-7f17-47fd-84f7-893494c7de22</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c8d44f30-ecd5-4079-8e87-12b68491076e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cb49b50e-9439-413e-b84b-c08f1bb4403e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Tokyo CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>a833b02b-7f17-47fd-84f7-893494c7de22</id>
+      <masked>false</masked>
+      <name>facility</name>
+   </variable>
+   <variable>
+      <defaultValue>'01/05/2024'</defaultValue>
+      <description></description>
+      <id>c8d44f30-ecd5-4079-8e87-12b68491076e</id>
+      <masked>false</masked>
+      <name>visit_date</name>
+   </variable>
+   <variable>
+      <defaultValue>'at 10.00 AM'</defaultValue>
+      <description></description>
+      <id>cb49b50e-9439-413e-b84b-c08f1bb4403e</id>
+      <masked>false</masked>
+      <name>comment</name>
+   </variable>
+</TestCaseEntity>

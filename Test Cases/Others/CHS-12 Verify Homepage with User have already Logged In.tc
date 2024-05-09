@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CHS-12 Verify Homepage with User have already Logged In</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d0ec3607-3bc3-4172-be95-b27c4af86c15</testCaseGuid>
+</TestCaseEntity>
