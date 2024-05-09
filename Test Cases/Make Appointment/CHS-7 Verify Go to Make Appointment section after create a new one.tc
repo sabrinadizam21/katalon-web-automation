@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CHS-7 Verify Go to Make Appointment section after create a new one</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef88a3b4-3450-4376-871c-ad72460c41fc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>af80fff0-7117-4aeb-924e-d5fdf9bd2811</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>[('facility') : 'Tokyo CURA Healthcare Center', ('visit_date') : '01/05/2024', ('comment') : 'at 10.00 AM']</defaultValue>
+      <description></description>
+      <id>af80fff0-7117-4aeb-924e-d5fdf9bd2811</id>
+      <masked>false</masked>
+      <name>input</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CHS-6 Without Input Optional Form</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2f209cd1-9955-4cea-8c11-61d54561acbe</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>826d583f-7a3e-4349-b6b5-fcd560e56a6e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>23f0384c-092f-4259-a91a-a5bf67600577</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Hongkong CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>826d583f-7a3e-4349-b6b5-fcd560e56a6e</id>
+      <masked>false</masked>
+      <name>facility</name>
+   </variable>
+   <variable>
+      <defaultValue>'10/05/2024'</defaultValue>
+      <description></description>
+      <id>23f0384c-092f-4259-a91a-a5bf67600577</id>
+      <masked>false</masked>
+      <name>visit_date</name>
+   </variable>
+</TestCaseEntity>

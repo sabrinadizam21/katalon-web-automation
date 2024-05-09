@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CHS-11 Verify Homepage with User have not Logged In</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fddc1f3c-a520-47b2-9518-2ad642384ac6</testCaseGuid>
+</TestCaseEntity>
